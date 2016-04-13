@@ -15,18 +15,15 @@ Having recently graduated from Europe’s top development bootcamp, personally I
 
 | **Github Repo**       | **Description**          | **Technology Stack**     | **Main Contributions**     |
 | --------------------- | ------------------------ | ------------------------ | -------------------------- |
-|Recipe Builder App     |Final Project - A database driven recipe builder app, with the ability to search by individual ingredients. |AngularJS, Rails, JavaScript, BootStrap, Protractor, Karma, Capybara|Search function implementation, and writing Protractor tests|
-|						|                          |                          |							   |
-|Github Viewer|User profile search tool built with AngularJS utilising GitHub API|AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS|Contributions across the complete stack|
-|						|                          |                          |							   |
-|MakersBnB|An Airbnb clone|Ruby, Rails, HTML, ERB, JQuery Rspec & Capybara|Contributions across the complete stack|
+|[Recipe Builder App] (https://github.com/fareedpatel/Recipes-project)     |Final Project - A database driven recipe builder app, with the ability to search by individual ingredients. |AngularJS, Rails, JavaScript, BootStrap, Protractor, Karma, Capybara|Search function implementation, and writing Protractor tests|
+|[Github Viewer] (https://github.com/fareedpatel/github_clone|User profile search tool built with AngularJS utilising GitHub API)|AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS|Contributions across the complete stack|
 
 
 
 
 #### General Skill
 
-I have the ability to work in small groups as well as larger organisations, I’m at my best when I am able to be my most creative self. In my role as a business development manager at SND Accountants I helped a numerous amount of entrepreneurs establishing their start-up by meticulously planning their business. Recently, a plan I wrote for a client looking to start a restaurant called Ginger’s Grill in Wales went viral and received worldwide attention after persuading the owner to offer an interesting discount. I hope to draw this experience, where I am able to to understand the end user in order to build a product, which is outside the box but essentially solves the customers needs. 
+I have the ability to work in small groups as well as larger organisations, I’m at my best when I am able to be my most creative self. In my role as a business development manager at SND Accountants I helped a numerous amount of entrepreneurs establishing their start-up by meticulously planning their business. Recently, a plan I wrote for a client looking to start a restaurant called Ginger’s Grill in Wales went [viral] (http://www.walesonline.co.uk/business/business-news/ginger-discount-business-plan-gave-11166602) and received worldwide attention after persuading the owner to offer an interesting discount. I hope to draw this experience, where I am able to to understand the end user in order to build a product, which is outside the box but essentially solves the customers needs. 
 
 ## Education
 

@@ -16,7 +16,7 @@ Having recently graduated from Europe’s top development bootcamp, personally I
 | **Github Repo**       | **Description**          | **Technology Stack**     | **Main Contributions**     |
 | --------------------- | ------------------------ | ------------------------ | -------------------------- |
 |[Recipe Builder App] (https://github.com/fareedpatel/Recipes-project)     |Final Project - A database driven recipe builder app, with the ability to search by individual ingredients. |AngularJS, Rails, JavaScript, BootStrap, Protractor, Karma, Capybara|Search function implementation, and writing Protractor tests|
-|[Github Viewer] (https://github.com/fareedpatel/github_clone|User profile search tool built with AngularJS utilising GitHub API)|AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS|Contributions across the complete stack|
+|[Github Viewer] (https://github.com/fareedpatel/github_clone)|[User profile search tool] (https://ronin-github-viewer.herokuapp.com) built with AngularJS utilising the GitHub API|AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS|Contributions across the complete stack|
 
 
 
@@ -60,12 +60,12 @@ OOP, TDD, SOLID, MVC
 - Assisted in the development of a peer to peer financing facility.  My role included understanding and documenting business requirements as well as reviewing the current competitor landscape and assisted in writing the business plan. I also wrote an extensive marketing, social media and growth hacking plan. 
 - Introduced the CEO to business angel networks and other investors. I took the lead in constructing the investment deck and also pitched to potential investors and other stakeholders including accountants, IFA’s and corporate lawyers. I managed free-lancers working on the web app and recruited the lead Ruby developer. Applied for the Seed Enterprise Investment Scheme and successfully achieved the tax relief for new investors. 
 
-**752 Solutions Ltd** (Jan 2013 – May 2013)
+**752 Solutions Ltd** (Jan 2013 – May 2013)    
 *A specialist IT, Risk & Compliance Search Consultancy* - *Specialist Resourcer*
 - Sourced and screened candidates by speaking to them and looking at their experience, character and motivations to assess their suitability for IT, risk and compliance positions within Investment banks and Asset management firms.
 - Maintained relationships with candidates and prepared them for interviews, formatted CVs, attended candidate meetings, published tailored job advertisements, and liaised with co-workers to reach targets more efficiently.
 
-**Towers Watson** (July 12 – August 12) 
+**Towers Watson** (July 12 – August 12)    
 *Leading Pension Consultancy* - *Investments Intern*
 - Analysed optimal allocation of pension fund assets and assisted in the construction of relevant portfolios.
 - Prepared quarterly valuations and investment reports for leading defined benefit pension schemes.

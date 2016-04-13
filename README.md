@@ -56,7 +56,7 @@ OOP, TDD, SOLID, MVC
  - Executed an online marketing campaign - included pay-per-click and social media campaign 
 
 **Papaverum Capital** (Jun 2013 – Mar 2105)   
-*A finance technology start-up – specialising in peer to peer financing* - *Business Analyst*  
+*A finance technology start-up, specialising in peer to peer financing* - *Business Analyst*  
 - Assisted in the development of a peer to peer financing facility.  My role included understanding and documenting business requirements as well as reviewing the current competitor landscape and assisted in writing the business plan. I also wrote an extensive marketing, social media and growth hacking plan. 
 - Introduced the CEO to business angel networks and other investors. I took the lead in constructing the investment deck and also pitched to potential investors and other stakeholders including accountants, IFA’s and corporate lawyers. I managed free-lancers working on the web app and recruited the lead Ruby developer. Applied for the Seed Enterprise Investment Scheme and successfully achieved the tax relief for new investors. 
 
@@ -66,7 +66,7 @@ OOP, TDD, SOLID, MVC
 - Maintained relationships with candidates and prepared them for interviews, formatted CVs, attended candidate meetings, published tailored job advertisements, and liaised with co-workers to reach targets more efficiently.
 
 **Towers Watson** (July 12 – August 12)    
-*Leading Pension Consultancy* - *Investments Intern*
+*A Leading Pension Consultancy* - *Investments Intern*
 - Analysed optimal allocation of pension fund assets and assisted in the construction of relevant portfolios.
 - Prepared quarterly valuations and investment reports for leading defined benefit pension schemes.
 - Received regular training regarding investment strategy: return-seeking assets, liability matching     assets, diversification, hedging and journey planning for institutional investors.

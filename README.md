@@ -12,20 +12,15 @@ After University, I worked for a start-up which aimed to revolutionise finance v
 
 Having recently graduated from Europe’s top development bootcamp, personally I am now ready for the next stage of my career. I would like to apply my new skill-set in a environment where I get to work on solving interesting problems. Below are some of the projects I’ve worked on whilst at Makers Academy;
 
-| *Github Repo*         | *Description*            | *Technology Stack*       | *Main Contributions*       |
+
+| **Github Repo**       | **Description**          | **Technology Stack**     | **Main Contributions**     |
 | --------------------- | ------------------------ | ------------------------ | -------------------------- |
-|Recipe Builder App     |Final Project 			   |AngularJS, Rails,         |Search function             |
-|						|A recipe builder app      |JavaScript, BootStrap,    |implementation, and writing |
-|						|with the ability to       |Protractor, Karma,		  |protractor tests            |
-|						|search by individual      |Capybara				  |							   |
-|						|ingredients.              |						  |							   |
+|Recipe Builder App     |Final Project - A database driven recipe builder app, with the ability to search by individual ingredients. |AngularJS, Rails, JavaScript, BootStrap, Protractor, Karma, Capybara|Search function implementation, and writing Protractor tests|
 |						|                          |                          |							   |
-|Github Viewer          |User profile search tool  |AngularJS, Github API,    |Contributions across the    |
-|                       |built with AngularJS      |Protractor, Karma,        |complete stack              |
-|                       |utilising GitHub          |Sinatra, CSS              |                            |
-|						|                          |						  |							   |
-|MakersBnB              |Airbnb clone              | Ruby, Rails, HTML, ERB,  |Contributions across the    |
-|                       |						   | Rspec & Capybara         |complete stack              | 
+|Github Viewer|User profile search tool built with AngularJS utilising GitHub API|AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS|Contributions across the complete stack|
+|						|                          |                          |							   |
+|MakersBnB|An Airbnb clone|Ruby, Rails, HTML, ERB, JQuery Rspec & Capybara|Contributions across the complete stack|
+
 
 
 

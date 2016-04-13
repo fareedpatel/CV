@@ -12,21 +12,21 @@ After University, I worked for a start-up which aimed to revolutionise finance v
 
 Having recently graduated from Europe’s top development bootcamp, personally I am now ready for the next stage of my career. I would like to apply my new skill-set in a environment where I get to work on solving interesting problems. Below are some of the projects I’ve worked on whilst at Makers Academy;
 
-| Github Repo           | Description              | Technology Stack         | Main Contributions         |
-|=======================|==========================|==========================|============================|
+| *Github Repo*         | *Description*            | *Technology Stack*       | *Main Contributions*       |
+| --------------------- | ------------------------ | ------------------------ | -------------------------- |
 |Recipe Builder App     |Final Project 			   |AngularJS, Rails,         |Search function             |
 |						|A recipe builder app      |JavaScript, BootStrap,    |implementation, and writing |
 |						|with the ability to       |Protractor, Karma,		  |protractor tests            |
 |						|search by individual      |Capybara				  |							   |
 |						|ingredients.              |						  |							   |
-|-----------------------|--------------------------|--------------------------|----------------------------|
+|						|                          |                          |							   |
 |Github Viewer          |User profile search tool  |AngularJS, Github API,    |Contributions across the    |
 |                       |built with AngularJS      |Protractor, Karma,        |complete stack              |
 |                       |utilising GitHub          |Sinatra, CSS              |                            |
-|-----------------------|--------------------------|--------------------------|----------------------------|
+|						|                          |						  |							   |
 |MakersBnB              |Airbnb clone              | Ruby, Rails, HTML, ERB,  |Contributions across the    |
 |                       |						   | Rspec & Capybara         |complete stack              | 
-|-----------------------|--------------------------|--------------------------|----------------------------|
+
 
 
 #### General Skill
@@ -64,25 +64,22 @@ OOP, TDD, SOLID, MVC
  - Executed an online marketing campaign - included pay-per-click and social media campaign 
 
 **Papaverum Capital** (Jun 2013 – Mar 2105)   
-*A finance technology start-up – specialising in peer to peer financing*
-*Business Analyst*  
+*A finance technology start-up – specialising in peer to peer financing* - *Business Analyst*  
 - Assisted in the development of a peer to peer financing facility.  My role included understanding and documenting business requirements as well as reviewing the current competitor landscape and assisted in writing the business plan. I also wrote an extensive marketing, social media and growth hacking plan. 
 - Introduced the CEO to business angel networks and other investors. I took the lead in constructing the investment deck and also pitched to potential investors and other stakeholders including accountants, IFA’s and corporate lawyers. I managed free-lancers working on the web app and recruited the lead Ruby developer. Applied for the Seed Enterprise Investment Scheme and successfully achieved the tax relief for new investors. 
 
 **752 Solutions Ltd** (Jan 2013 – May 2013)
-*A specialist IT, Risk & Compliance Search Consultancy*
-*Specialist Resourcer*
--Sourced and screened candidates by speaking to them and looking at their experience, character and motivations to assess their suitability for IT, risk and compliance positions within Investment banks and Asset management firms.
+*A specialist IT, Risk & Compliance Search Consultancy* - *Specialist Resourcer*
+- Sourced and screened candidates by speaking to them and looking at their experience, character and motivations to assess their suitability for IT, risk and compliance positions within Investment banks and Asset management firms.
 - Maintained relationships with candidates and prepared them for interviews, formatted CVs, attended candidate meetings, published tailored job advertisements, and liaised with co-workers to reach targets more efficiently.
 
 **Towers Watson** (July 12 – August 12) 
-*Leading Pension Consultancy*
-*Intern - Investment Team*
+*Leading Pension Consultancy* - *Investments Intern*
 - Analysed optimal allocation of pension fund assets and assisted in the construction of relevant portfolios.
 - Prepared quarterly valuations and investment reports for leading defined benefit pension schemes.
 - Received regular training regarding investment strategy: return-seeking assets, liability matching     assets, diversification, hedging and journey planning for institutional investors.
 - Visited a number of investment manager meetings; learning about their investment strategies.
--Analysed optimal allocation of pension fund assets and assisted in the construction of relevant portfolios.
+- Analysed optimal allocation of pension fund assets and assisted in the construction of relevant portfolios.
 
 
 
